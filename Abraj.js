@@ -1,4 +1,3 @@
-
 	
 	var form = document.getElementById("form")
 		result  = document.getElementById("result");
@@ -55,19 +54,18 @@ if(mod1== 12) str1 = str1+ "برجك الباطني هو الحوت وكوكبك
 	
 	var y = document.getElementById("textbox2").value;
    
-	if (y == 0 || y == 12) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Pisces4.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_ho12/">لتعرف تفاصيل برجك اضغط هنا</a>';}
-	if (y == 1) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Aries4.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_ha1/">لتعرف تفاصيل برجك اضغط هنا</a>';}
-	if (y == 2) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Taurus4.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_th2/">لتعرف تفاصيل برجك اضغط هنا</a>';}
-	if (y == 3) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Gemini4-1.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_ga3">لتعرف تفاصيل برجك اضغط هنا</a>';}
-	if (y == 4) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Cancer4.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/ras_sa4">لتعرف تفاصيل برجك اضغط هنا</a>';}
-	if (y == 5) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Lion4.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_as5">لتعرف تفاصيل برجك اضغط هنا</a>';}
-	if (y == 6) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Virgo4.png">';document.getElementById("details").innerHTML = '<a href="http://thabet-alhasan.com/v-abraj">لتعرف تفاصيل برجك اضغط هنا</a>';}
-	if (y == 7) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Libra4.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_me7">لتعرف تفاصيل برجك اضغط هنا</a>';}
-	if (y == 8) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Scorpio4.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_akr8">لتعرف تفاصيل برجك اضغط هنا</a>';}
-	if (y == 9) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Sagittarius4.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_kaw9/">لتعرف تفاصيل برجك اضغط هنا</a>';}
-	if (y == 10) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Capricorn4.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_ged10">لتعرف تفاصيل برجك اضغط هنا</a>';}
-	if (y == 11) {document.getElementById("logo").innerHTML = '<img src=\"https://thabet-alhasan.com/wp-content/uploads/2014/12/Aquarius4.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_da11">لتعرف تفاصيل برجك اضغط هنا</a>';}
+	if (y == 0 || y == 12) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/pisces11.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_ho12/">لتعرف تفاصيل برج الحوت اضغط هنا</a>';}
+	if (y == 1) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/aries410.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_ha1/">لتعرف تفاصيل برج الحمل اضغط هنا</a>';}
+	if (y == 2) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/taurus11.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_th2/">لتعرف تفاصيل برج الثور اضغط هنا</a>';}
+	if (y == 3) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/gemini11.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_ga3">لتعرف تفاصيل برج الجوزاء اضغط هنا</a>';}
+	if (y == 4) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/cancer11.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/ras_sa4">لتعرف تفاصيل برج السرطان اضغط هنا</a>';}
+	if (y == 5) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/lion410.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_as5">لتعرف تفاصيل برج الاسد اضغط هنا</a>';}
+	if (y == 6) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/virgo410.png">';document.getElementById("details").innerHTML = '<a href="http://thabet-alhasan.com/v-abraj">لتعرف تفاصيل برج العذراء اضغط هنا</a>';}
+	if (y == 7) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/libra410.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_me7">لتعرف تفاصيل برج الميزان اضغط هنا</a>';}
+	if (y == 8) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/scorpi11.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_akr8">لتعرف تفاصيل برج العقرب اضغط هنا</a>';}
+	if (y == 9) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/sagitt12.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_kaw9/">لتعرف تفاصيل برج القوس اضغط هنا</a>';}
+	if (y == 10) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/capric12.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_ged10">لتعرف تفاصيل برج الجدي اضغط هنا</a>';}
+	if (y == 11) {document.getElementById("logo").innerHTML = '<img src=\"https://i77.servimg.com/u/f77/18/98/87/51/aquari11.png">';document.getElementById("details").innerHTML = '<a href="https://thabet-alhasan.com/as_da11">لتعرف تفاصيل برج الدلو اضغط هنا</a>';}
   
 
 }
-
