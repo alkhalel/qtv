@@ -1,0 +1,183 @@
+html,
+body {
+    height: 100%;
+    background-color: whitesmoke;
+}
+
+.big-btn {
+    background-color: #0076ff;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    border-radius: 500px 500px 500px 500px;
+    -moz-border-radius: 500px 500px 500px 500px;
+    -webkit-border-radius: 500px 500px 500px 500px;
+    border: 0px solid #000000;
+}
+
+.big-btn:active {
+    background-color: #0076ff;
+    opacity: .2;
+}
+
+.reset-btn {
+    background-color: #ff003b;
+    width: 30px;
+    height: 30px;
+    border-radius: 500px 500px 500px 500px;
+    -moz-border-radius: 500px 500px 500px 500px;
+    -webkit-border-radius: 500px 500px 500px 500px;
+    border: 0px solid #000000;
+    margin-left: 40px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    float: left;
+}
+
+.reset-btn:active {
+    background-color: #ff003b;
+    opacity: .2;
+}
+
+
+.primary-btn {
+    display: inline-block;
+    background: #0076ff;
+    font-family: -apple-system, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 400;
+    user-select: none;
+    padding: 4px 10px;
+    font-size: 17px;
+    line-height: 32px;
+    color: #fff;
+    border-radius: 3px;
+}
+
+.primary-btn:active {
+    background-color: #0076ff;
+    opacity: .2;
+}
+
+
+.count-container {
+    padding: 10px;
+}
+
+.big-btn-container {
+    padding: 5px;
+    padding-top: 0px;
+    margin-top: 30px;
+}
+
+.big-btn-txt {
+    line-height: 300px;
+    text-align: center;
+    display: block;
+    color: white;
+    font-size: 80px;
+}
+
+.toolbar-logo {
+    width: 90px;
+    margin: auto;
+    margin-left: 10px;
+}
+
+.count {
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    background-color: white;
+    padding: 0px 10px;
+    color: #0076ff;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+}
+
+
+
+#homepage h1 {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 0;
+    padding-top: 12px;
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+
+.total-tasabi7 {
+    float: right;
+    color: #0076ff;
+    margin-right: 14px;
+}
+
+.whatsapp-link {
+    position: absolute;
+    left: 20px;
+    top: 4px;
+}
+
+.whatsapp-link img {
+    width: 40px;
+}
+
+.ad3iyeh {
+    position: absolute;
+    right: 14px;
+    top: 14px;
+}
+
+.dou3a2 {
+    border: 1px solid #d2d2d2;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: right;
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.inline-whatsapp img {
+    width: 40px;
+    cursor: pointer;
+}
+
+.inline-whatsapp {
+    display: block;
+}
+
+.congratulation {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    font-size: 50px;
+    display: none;
+
+}
+.congratulation p{
+    font-size: 16px;
+}
