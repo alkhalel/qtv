@@ -1,0 +1,7 @@
+#EXTM3U 
+
+#EXTINF:-1,Raya_TV-3
+
+#EXTVLCOPT:http-referer:http://qanat.tv/4
+
+http://88.99.227.199/upload/images/logo04.m3u8
